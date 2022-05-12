@@ -1,6 +1,0 @@
-#git status
-#git add .
-#git commit - "commit"
-#git push -u origin branch name
-#git checkout -b branch name
-#git checkout branchname
